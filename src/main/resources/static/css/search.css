@@ -1,0 +1,22 @@
+h1 { background-color: rgb(115,0,10); color:white; font-size:24px; }
+h6 { padding:0px 0px 2px 0px ; margin:0px; }
+label {font-family:Arial; font-size:12px; margin:0 0 30px 0 }
+#search-option { width:275px; height:100px; margin:10px; float:left; clear:right; }
+.radio-button, .check-box-vert, .check-box-horz { transform:scale(0.75); }
+.required-text { color:red; }
+.input-box { width:100px; font-size:12px }
+#term-campus-block { position:absolute; top:200px; left:20px; }
+#subject-block { position:absolute; top:200px; left:200px; }
+#days-instructor-block { position:absolute; top:200px; left:500px; }
+.check-box-vert { margin:0 2px 30px 0 }
+#optional-fields-block { position:absolute; top:200px; left:900px; }
+.check-box-horz { margin:0 5px 7px 0 }
+select { font-family:Arial; font-size:13px; margin:5px 0 10px 0; }
+.selectNarrow { width:150px; }
+.selectWide { width:250px; }
+#button-controls {position:absolute; top:500px; left:80px }
+#table-button td { border:0px; padding:20px; }
+#error-block { color:#ff0000; }
+#table-data { position:absolute; top:570px; left:10px; font-family:Times New Roman; font-size:12px; }
+#table-data { border-collapse:collapse; margin-left:auto; margin-right:auto; }
+#table-data th, td { text-align:center; min-width:40px; border:1px solid black; }
